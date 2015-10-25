@@ -24,6 +24,8 @@ nc69366.jpg
 * 【背景素材】森  
 nc78903.jpg  
 
+## TODO:  
+* Make it OOP =_=b  
+
 ## History  
 * 2015-10-25: old code commit, replacing materials.  
-
