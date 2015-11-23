@@ -8,6 +8,9 @@ https://github.com/Arcticjs/Arctic.js
 * Making-Isometric-Real-time-Games  
 https://github.com/andrespagella/Making-Isometric-Real-time-Games  
 
+* loveJS  
+https://github.com/DaanHaaz/loveJS  
+
 ## Tools  
 * NetBeans IDE 8.0.2  
 
