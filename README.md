@@ -11,6 +11,9 @@ https://github.com/andrespagella/Making-Isometric-Real-time-Games
 * loveJS  
 https://github.com/DaanHaaz/loveJS  
 
+* HTML 5 Game Development for Dummies  
+http://aharrisbooks.net/h5g/  
+
 ## Tools  
 * NetBeans IDE 8.0.2  
 
